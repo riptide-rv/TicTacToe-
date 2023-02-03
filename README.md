@@ -1,6 +1,7 @@
 # Tic Tac Toe 🎮
 
-A classic two-player Tic Tac Toe game for Android devices. Play against a friend or the AI(not actually an AI just a random number generator) and see who wins the most games 🤖.
+Hey there! I made this Tic Tac Toe game as a fun project in my Android Development Journey. It's a classic two-player game that you can play🕹️ against a friend or the 
+AI( its actually just a random cell clicker 😂).  
 
 
 
@@ -27,5 +28,5 @@ A classic two-player Tic Tac Toe game for Android devices. Play against a friend
 
 ## Author 🙋‍♂️
 
-Rohit Ramdas V(https://github.com/riptide-rv>)
+ Thats me [Rohit Ramdas V](https://github.com/riptide-rv>)
 
