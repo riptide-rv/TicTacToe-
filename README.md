@@ -25,7 +25,7 @@ A classic two-player Tic Tac Toe game for Android devices. Play against a friend
 
 
 
-## Author 🙋‍♂️🙋‍♀️
+## Author 🙋‍♂️
 
 Rohit Ramdas V(https://github.com/riptide-rv>)
 
